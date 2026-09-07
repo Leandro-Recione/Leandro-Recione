@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! 👋
 
 Me chamo Leandro Recione, sou desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas.
 
