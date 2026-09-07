@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-
-Sou Recione, desenvolvedor Backend e formado em Análise e Desenvolvimento de Sistemas.
+Me chamo Leandro Recione, sou desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas.
 
 Estudo e desenvolvo projetos com foco em TypeScript, Node.js, NestJS, APIs REST e bancos de dados.
 
-Atualmente, continuo aprimorando meus conhecimentos em arquitetura de software, Clean Code e boas práticas de desenvolvimento.
+Continuo aprimorando meus conhecimentos em arquitetura de software, Clean Code e boas práticas de desenvolvimento.
 
 ### Tecnologias
 
